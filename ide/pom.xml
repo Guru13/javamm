@@ -11,6 +11,10 @@
 
     <artifactId>ide</artifactId>
 
+
+    <name>Javamm IDE</name>
+    <description>Simple GUI IDE for javamm programming language</description>
+
     <dependencies>
         <dependency>
             <groupId>by.guru13</groupId>

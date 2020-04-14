@@ -11,6 +11,9 @@
 
     <artifactId>compiler</artifactId>
 
+    <name>Javamm compiler</name>
+    <description>Default compiler for javamm programming language</description>
+
     <dependencies>
         <dependency>
             <groupId>by.guru13</groupId>

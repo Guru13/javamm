@@ -11,5 +11,8 @@
 
     <artifactId>code</artifactId>
 
+    <name>Javamm code</name>
+    <description>Code base module for javamm programming language</description>
+
 
 </project>
